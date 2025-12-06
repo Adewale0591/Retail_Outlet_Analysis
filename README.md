@@ -47,14 +47,15 @@ This project analyzes retail sales and supply chain performance using transactio
   - YoY Growth% = DIVIDE([Total Sales] - [Previous Year Sales], [Previous Year Sales])
   - Customer Rank = RANKX(ALL(Customer[Customer Name]),[Total Sales],,DESC)
 
-  ![Retail Outlet 7](https://github.com/user-attachments/assets/ff40fc60-b892-442a-8d41-e4894c6472d2)
+![Retail Outlet 7](https://github.com/user-attachments/assets/a8c1a135-f407-4deb-88d7-390a46c7acbf)
 
   ## Visualizations
-![Retail Supply Chain Report 1](https://github.com/user-attachments/assets/2fadc956-2cd8-4923-b1ef-523c989dac68)
+![Retail Supply Chain Report 1](https://github.com/user-attachments/assets/17a72997-eb0f-4234-8b90-7b59ba12c7ef)
 
-![Retail Supply Chain Report 2](https://github.com/user-attachments/assets/45dbee11-1491-4406-9d49-6b1fffc7cb00)
+![Retail Supply Chain Report 2](https://github.com/user-attachments/assets/1dbd6130-28be-41fd-896e-27d734cf82dd)
 
-![Retail Supply Chain Report 3](https://github.com/user-attachments/assets/57d063d6-96cd-4563-b7f1-2817f60113fa)
+![Retail Supply Chain Report 3](https://github.com/user-attachments/assets/84dfaf58-1b64-4e70-85f9-fa6e026b27b3)
+
 
 ## Insights
 - Technology drive the highest sales with profit. Although Office Supplies has the lowest sales, the profit is greater than that of Furniture category.
